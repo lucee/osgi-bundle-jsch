@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.lucee</groupId>
   <artifactId>jsch</artifactId>
-  <version>0.1.53</version>
+  <version>0.1.55</version>
   <name>jsch</name>
   <packaging>bundle</packaging>
 
@@ -94,7 +94,7 @@
                  <artifactItem>
                    <groupId>com.jcraft</groupId>
                     <artifactId>jsch</artifactId>
-                    <version>0.1.53</version>
+                    <version>0.1.55</version>
                    <type>jar</type>
                    <overWrite>false</overWrite>
                    <outputDirectory>${project.build.directory}/classes</outputDirectory>
